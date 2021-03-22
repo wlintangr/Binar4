@@ -1,0 +1,92 @@
+body {
+  background: #9c835f;
+}
+
+h1 {
+  font-family: open sans;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #f9b23d;
+  position: absolute;
+}
+
+h2 {
+  font-family: open sans;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 72px;
+  line-height: 98px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #724c21;
+  position: absolute;
+}
+
+h3 {
+  font-family: open sans;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: justify;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #000000;
+  position: absolute;
+}
+
+.batu,
+.batu-1 {
+  position: absolute;
+  width: 128px;
+  height: 92px;
+}
+.kertas,
+.kertas-1 {
+  position: absolute;
+  width: 115px;
+  height: 150px;
+}
+
+.gunting,
+.gunting-1 {
+  position: absolute;
+  width: 134px;
+  height: 160px;
+}
+.refresh {
+  position: absolute;
+  width: 77px;
+  height: 71px;
+  margin-top: 45%;
+}
+
+.logo {
+  position: absolute;
+  width: 72px;
+  height: 72px;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 100px;
+  align: center;
+}
+
+.versus {
+  font-family: open sans;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 144px;
+  line-height: 196px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #bd0000;
+  position: absolute;
+}
